@@ -1,11 +1,11 @@
 
 
-#over Jeroen
+#over Thijs
 
-**Voornaam:** Jeroen
+**Voornaam:** Thijs
 
-**Achternaam:** Slemmer
+**Achternaam:** van Weelden
 
-**E-mail adres:** [jslemmer@davinci.nl](Jeroen Slemmer)
+**E-mail adres:** [thijsvanweelden11@gmail.com](Thijs van Weelden)
 
-**Telefoon:** 0612345678
+**Telefoon:** 0612210242
